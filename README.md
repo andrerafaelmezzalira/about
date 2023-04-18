@@ -1,4 +1,4 @@
 # about
 My Professional History
 
-[Sobre](https://andrerafaelmezzalira.github.io/about/)
+[About](https://andrerafaelmezzalira.github.io/about/)
