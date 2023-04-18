@@ -1,6 +1,21 @@
 André Rafael Mezzalira
 ========================
 
+### Resumo
+
+* Profissional de Tecnologia com quase 20 anos de experiência em desenvolvimento
+de sistemas em ambiente Java, tendo atuado principalmente em instituições
+bancárias.
+* Especializado em resolver problemas de alta complexidade, tenho como prioridade
+a qualidade do software, do código e da performance da aplicação.
+* Possuo expertise em arquiteturas distribuídas, ambiente cloud e orientadas a
+eventos.
+* Minhas habilidades incluem conhecimento em metodologias ágeis e práticas de
+desenvolvimento de software, experiência em testes de unidade, testes de
+integração e testes de aceitação, conhecimento em ferramentas de automação de
+testes, habilidade em análise de desempenho e otimização de código, bem como
+conhecimento em padrões de projeto e boas práticas de programação.
+
 ### ClickBus - 2019/2022 - Desenvolvedor Java Sênior
 
 * Desenvolvimento e manutenção de sistemas da ClickBus para gerir a
@@ -99,8 +114,23 @@ Desenvolvimento do backend, frontend e administração do banco de dados.
 * Trabalho em equipe utilizando PhpMyAdmin (PHP + Mysql), ActionScript,
 Javascript, Jquery, Dreamweaver.
 
+### Formação Acadêmica
+
+* Bacharel em Sistemas de Informação, Unipar, Francisco Beltrão – PR (2004-2007).
+
+### Idiomas
+
+* Português (Nativo).
+* Inglês (Intermediário).
+* Espanhol (Intermediário).
+  
 ### Certificações
 
 * Certificação de Programador Java – SCJP (2007).
 * Certificação de Desenvolvedor de Componentes Web - Java EE – SCWCD (2007).
 * Certificação de Associado Java – SCJA (2009).
+
+### Contato
+
+*  andrerafaelmezzalira@gmail.com
+
